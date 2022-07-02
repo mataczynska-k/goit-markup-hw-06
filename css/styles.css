@@ -869,8 +869,8 @@ color: var(--brand-color);
   padding: 12px 16px;
   transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.conact-text:focus,
-.conact-text:hover {
+.contact-text:focus,
+.contact-text:hover {
     outline: none;
     border: 1px solid var(--brand-color);
     border-radius: 4px;
